@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.gradio/
+.pytest_cache/
+# O CSV gerado em uso não vai para o repositório; o exemplo da entrega fica em evidencias/
+gradio_app/pacientes.csv
+streamlit_app/pacientes.csv

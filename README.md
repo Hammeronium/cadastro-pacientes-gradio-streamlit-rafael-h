@@ -4,6 +4,8 @@ Atividade Prática da Aula 1 da disciplina Aplicações em Data Science.
 
 A mesma aplicação de coleta de dados foi construída duas vezes: um formulário de cadastro de pacientes para a recepção de um consultório médico. O objetivo é comparar na prática as duas bibliotecas. O formulário tem os campos nome, idade, convênio, prioridade de 1 a 5 (5 = urgente) e motivo da consulta. Cada envio grava uma linha com data e hora.
 
+Link da Aplicação: https://cadastro-pacientes-rafael-h.streamlit.app
+
 ## Estrutura
 
 ```
